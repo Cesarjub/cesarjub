@@ -1,6 +1,4 @@
-### Hi, I'm Cesar <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="22px">
-
----
+## Hi, I'm Cesar <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="22px">
 
 Computer systems engineering student 🚀.
 
