@@ -15,11 +15,9 @@ Computer systems engineering student 🚀.
 <code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/245px-VB.NET_Logo.svg.png"></code>
 <!--<code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"></code>-->
 
-<br/>
+<h4><a href = "https://github.com/Cesarjub?tab=repositories" title = "Show Repositories">🔎 Show Repositories</a></h4>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarjub)](https://github.com/anuraghazra/github-readme-stats)
-
-<h4><a href = "https://github.com/Cesarjub?tab=repositories" title = "Show Repositories">🔎 Show Repositories</a></h4>
 
 <!--- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cesarjub) --->
 <img src="https://komarev.com/ghpvc/?username=Cesarjub">
