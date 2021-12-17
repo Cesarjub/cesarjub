@@ -11,7 +11,7 @@ Computer systems engineering student 🚀.
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></code>
 <code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height = "20" src = "https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png"></code>
 <code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/245px-VB.NET_Logo.svg.png"></code>
 <code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"></code>
 
