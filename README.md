@@ -17,7 +17,7 @@ Computer systems engineering student 🚀.
 
 <h4><a href = "https://github.com/Cesarjub?tab=repositories" title = "Show Repositories">🔎 Show Repositories</a></h4>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarjub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarjub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cesarjub) --->
 <img src="https://komarev.com/ghpvc/?username=Cesarjub">
