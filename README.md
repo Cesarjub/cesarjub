@@ -1,4 +1,8 @@
-## Hi, I'm Cesar <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="22px">
+## Hi, I'm Cesar <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width = "22px"> 
+
+[<img align = "right" alt = "Cesarjub | Github" width = "22px" src = "https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" />][github]
+[<img align = "right" alt = "Cesarjub | LinkedIn" width = "22px" src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />][linkedin]
+[<img align = "right" alt = "Cesarjub | Instagram" width = "22px" src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />][instagram]
 
 Computer systems engineering student 🚀.
 
@@ -21,15 +25,6 @@ Computer systems engineering student 🚀.
 
 <!--- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cesarjub) --->
 <img src="https://komarev.com/ghpvc/?username=Cesarjub">
-
-### <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width = "20px"> You can find me in:
-
-[<img align = "left" alt = "Cesarjub | Github" width = "22px" src = "https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" />][github]
-[<img align = "left" alt = "Cesarjub | LinkedIn" width = "22px" src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />][linkedin]
-[<img align = "left" alt = "Cesarjub | Instagram" width = "22px" src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />][instagram]
-
-<br/>
-<br/>
 
 :star: From [Cesarjub](https://github.com/Cesarjub)
 
