@@ -1,4 +1,4 @@
-## Hi, I'm Cesar <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width = "22px"> 
+## Hi, I'm Cesar <img src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width = "22px"> <img align = "right" src = "https://komarev.com/ghpvc/?username=Cesarjub">
 
 [<img align = "right" alt = "Cesarjub | Github" width = "22px" src = "https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" />][github]
 [<img align = "right" alt = "Cesarjub | LinkedIn" width = "22px" src = "https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />][linkedin]
@@ -23,8 +23,8 @@ Computer systems engineering student 🚀.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarjub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cesarjub) --->
-<img src="https://komarev.com/ghpvc/?username=Cesarjub">
+<!--- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cesarjub) 
+<img src = "https://komarev.com/ghpvc/?username=Cesarjub"> --->
 
 :star: From [Cesarjub](https://github.com/Cesarjub)
 
