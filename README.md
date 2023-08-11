@@ -10,11 +10,11 @@ Computer systems engineering 🚀.
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></code>
-<code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png">
+<code><img height = "20" src = "https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png">
 </code>
 <code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/500px-Vue.js_Logo_2.svg.png">
 </code>
-<code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Firebase_Logo.png/440px-Firebase_Logo.png">
+<code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png">
 </code>
 
 <h4><a href = "https://github.com/Cesarjub?tab=repositories" title = "Show Repositories">My repositories</a></h4>
