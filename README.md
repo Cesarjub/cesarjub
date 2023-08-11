@@ -17,6 +17,6 @@ Computer systems engineering 🚀.
 <code><img height = "20" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png">
 </code>
 
-<h4><a href = "https://github.com/Cesarjub?tab=repositories" title = "Show Repositories">My repositories</a></h4>
+<h4><a href = "https://github.com/Cesarjub?tab=repositories" title = "Show Repositories">⫸ My repositories</a></h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarjub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
